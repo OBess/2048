@@ -1,0 +1,11 @@
+#ifndef PREPROCESSORS_H
+#define PREPROCESSORS_H
+
+#define SIZE 3
+#define BORDER_OFFSET 13
+#define SIZE_TILE 120
+#define MAX_RANDOM_TILES 1
+#define FONT_SIZE 40
+#define START_VALUE 2
+
+#endif // PREPROCESSORS_H
